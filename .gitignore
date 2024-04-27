@@ -6,3 +6,4 @@ HospitalServices.exe.exe.xml
 list_id_drive_app.txt
 Log-*
 .azure/push.sh
+package.json
