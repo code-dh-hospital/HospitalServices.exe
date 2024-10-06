@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1004.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410040-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410040-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410040-NasDHSolutions.json)
+## 3.24.1006.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410060-NasDHSolutions.json)
+- 🐛: **💼**: **_Hỗ trợ khách hàng - Services Gửi hồ sơ_**
+- 🐛: Chỉnh lỗi không gửi được hồ sơ ![](https://i.imgur.com/zY0FnCO.png) ![](https://i.imgur.com/yt5eWwh.png) ![](https://i.imgur.com/x3Bgyaf.png)
+- ✨: ***Thay đổi mỗi lần gửi dữ liệu sẽ lấy 100 hồ sơ hoặc checkin để thực hiện***
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/120
+## [v.3.24.1004.0]()
 - 🐛: **💼**: **_Lỗi - Gửi tự động những BN tháng cũ_**
 - 🐛: Chỉnh lỗi lấy sai ngày checkin và ngày thanh toán để gửi hồ sơ ![](https://i.imgur.com/gQv1VUc.png)
 - ☑: https://github.com/dh-hos/dhg.hospitalservices/issues/22
