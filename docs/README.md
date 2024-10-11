@@ -5,12 +5,20 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1011.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410110-NasDHSolutions.json)
+## 3.24.1011.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410111-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410111-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410111-NasDHSolutions.json)
 - 🐛: **💼**: **_Lỗi - Services gửi checkin lỗi không lấy được mã  DV_**
 - ✨: Thực hiện theo mô tả [XML130/Hau-gui-checkin-xml.md](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/Hau-gui-checkin-xml.md)
 - 🐛: Chỉnh lỗi khi gửi thành công chỉ set checkin_cls = 1, checkin_thuoc=1, checkin_vtyt=1 (nếu có)
 - 🐛: Kiểm tra nếu MA_DICH_VU, MA_VAT_TU, MA_THUOC có mới thực hiện gửi. ***Tránh lỗi*** ![](https://i.imgur.com/q1385Ty.png)
-- ✨: ***Xử lý ghi nhận lỗi khi gửi API, nếu hồ sơ, checkin gửi lỗi quá 20 lần, sẽ không gửi hồ sơ, checkin này nữa.***
+- ✨: ***Xử lý ghi nhận lỗi khi gửi API, nếu hồ sơ, checkin gửi lỗi quá 20 lần, sẽ không gửi hồ sơ, checkin này nữa.*** ![](https://i.imgur.com/fpLAau6.gif)
+- ✨: ***Lưu ý: Cập nhật cấu trúc*** ![](https://i.imgur.com/0QT8JzM.png)
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/104
+## [v.3.24.1011.0]()
+- 🐛: **💼**: **_Lỗi - Services gửi checkin lỗi không lấy được mã  DV_**
+- ✨: Thực hiện theo mô tả [XML130/Hau-gui-checkin-xml.md](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/Hau-gui-checkin-xml.md)
+- 🐛: Chỉnh lỗi khi gửi thành công chỉ set checkin_cls = 1, checkin_thuoc=1, checkin_vtyt=1 (nếu có)
+- 🐛: Kiểm tra nếu MA_DICH_VU, MA_VAT_TU, MA_THUOC có mới thực hiện gửi. ***Tránh lỗi*** ![](https://i.imgur.com/q1385Ty.png)
+- ✨: ***Xử lý ghi nhận lỗi khi gửi API, nếu hồ sơ, checkin gửi lỗi quá 20 lần, sẽ không gửi hồ sơ, checkin này nữa.*** ![](https://i.imgur.com/fpLAau6.gif)
 - ✨: ***Lưu ý: Cập nhật cấu trúc*** ![](https://i.imgur.com/0QT8JzM.png)
 - ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/104
 ## [v.3.24.1006.0]()
