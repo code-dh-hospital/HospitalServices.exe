@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1021.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410210-NasDHSolutions.json)
+## 3.24.1022.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410220-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410220-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalServicesexe%2F32410220-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - Services gửi checkin lỗi không lấy được mã  DV_**
+- 🐛: ***Thêm chức năng chỉ gửi những hồ sơ khi XML01.CHAN_DOAN_RV khác rỗng, XML01.MA_BENH_CHINH (Tránh tình trạng Mở khóa, Trả về điều trị vẫn gửi hồ sơ) gây lỗi*** ![](https://i.imgur.com/X8QH4WV.png)
+- 🐛: Xử lý lấy Token mỗi khi gửi hồ sơ, xử lý trường hợp gửi được một thời gian là bị lỗi, phải tắt mở lại.
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/104
+## [v.3.24.1021.0]()
 - 🐛: **💼**: **_Lỗi - Services gửi checkin lỗi không lấy được mã  DV_**
 - 🐛: ***Thêm chức năng chỉ gửi những hồ sơ khi XML01.CHAN_DOAN_RV khác rỗng, XML01.MA_BENH_CHINH (Tránh tình trạng Mở khóa, Trả về điều trị vẫn gửi hồ sơ) gây lỗi*** ![](https://i.imgur.com/X8QH4WV.png)
 - 🐛: Xử lý lấy Token mỗi khi gửi hồ sơ, xử lý trường hợp gửi được một thời gian là bị lỗi, phải tắt mở lại.
