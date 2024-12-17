@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1217.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32412170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32412170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32412170-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Services mới không gửi tự động được
+- 🐛: Cập nhật mới để theo dõi việc gửi tự động ![](https://i.imgur.com/6DXLgBS.jpeg) ![](https://i.imgur.com/OBL93Al.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/92
+
 ## [v.3.24.1130.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32411300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32411300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32411300-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Hỗ trợ Gửi hồ sơ XML4750 so với ngày hiện tại trên cổng tiếp nhận BHXH
 - ✨: Trước khi lấy hồ sơ KCB, sẽ lấy thông tin ngày hiện tại trên cổng BHXH (bằng cách gọi hàm lấy Token, sau đó lấy thông tin Date trong Header của cổng BHXH trả về để lấy ngày giờ), thực hiện loại bỏ những hồ sơ có ngày thanh toán lớn hơn ngày hiện tại của cổng BHXH để gửi.
