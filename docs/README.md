@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0423.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32504230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32504230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32504230-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - BV Trà Cú: Liên thông dữ liệu Hồ sơ sức khỏe điện tử - YEUCAU - dh-issue- #53
+- ✨:  ***Bổ sung chức năng gửi dữ liệu liên thông hồ sơ sức khỏe lên cổng Viettel.*** 
+- ![](https://i.imgur.com/zz7Pioe.png)  ![](https://i.imgur.com/wJVVsSt.png)  ![](https://i.imgur.com/uGZG7az.png)
+- ✨: ***Bổ sung chức năng gửi tự động theo cấu hình kèm theo khi gửi BHXH*** ![](https://i.imgur.com/AS0VJLN.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/53
+
 ## [v.3.25.0422.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32504220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32504220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32504220-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨:  TK - Triển khai 12 trạm xã Châu Thành - Đồng Tháp - TRIENKHAI - dh-issue- #12
