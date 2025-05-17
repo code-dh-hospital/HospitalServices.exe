@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0517.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32505170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32505170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32505170-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu: Thay đổi cách tính stent thứ 2 ở các module (Reports - Admin - Services -Treatment) - YEUCAU - dh-issue- #232
+- ✨:  ***Xử lý XML03.*** 
+  - ***Bổ sung mô tả cách ghi nhận đối với VTYT (ma_nhom = 10) và có dmthuoc.stent = 2 thì t_trantt = 18.000.000***
+  - ***Bổ sung mô tả cách ghi nhận đối với VTYT (ma_nhom = 10) và có dmthuoc.stent = 2 thì vẫn tính THANH_TIEN_BH = SO_LUONG * DON_GlA_BH * TYLE_TT_DV/100 * TYLE_TT_BH/100.***
+  - ***Bổ sung mô tả cách ghi nhận đối với VTYT (ma_nhom = 10) và có dmthuoc.stent = 2 thì tyle_tt_bh = 100.***
+- ![](https://live.staticflickr.com/65535/54525106753_40e000f815_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/232
+
 ## [v.3.25.0510.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32505100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32505100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32505100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - BV Ô Môn: XML9 lấy sai thông tin con (lấy dữ liệu con đã xóa) - LOI - dh-issue- #292
 - 🐛:  ***Xử lý XML09 lấy theo trạng thái xoa = 0.*** ![](https://i.imgur.com/dTgBqtG.png)
