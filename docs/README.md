@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0818.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508180-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Bổ sung NGAY_TH_YL XML2 theo 4750 và 3762 (BV CLM và Châu thành BT) - YEUCAU - dh-issue- #144
+- ✨:  ***Bổ sung module theo yêu cầu.*** ![](https://live.staticflickr.com/65535/54728447039_1556299f66_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/144
+
 ## [v.3.25.0804.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508041-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - BV Sa Đéc: XML 130 sai số tiền và số lượng thuốc khi bệnh nhân có chỉ định số lượng 3 số thập phân - LOI - dh-issue- #422
 - 🐛:  ***Tăng số chữ số làm tròn đối với tiền thuốc, vtyt lên 3 con số.*** ![](https://live.staticflickr.com/65535/54698688405_7329156e63_b.jpg)
