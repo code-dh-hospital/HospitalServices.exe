@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0820.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508200-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - BV Phụ Sản: Cập nhật danh mục mã đối tượng khám bệnh chữa bệnh theo QĐ 2010/QĐ-BYT - YEUCAU - dh-issue- #376
+- ✨:  ***Cập nhật theo mô tả [ma_doituong_kcb_qd2010.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_doituong_kcb_qd2010.md).*** 
+- ![](https://live.staticflickr.com/65535/54707350475_f09e427448_b.jpg)
+- ![](https://live.staticflickr.com/65535/54707214108_b164970a2c_c.jpg) ![](https://live.staticflickr.com/65535/54733205091_8408f3406f_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/376
+
 ## [v.3.25.0818.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32508180-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Bổ sung NGAY_TH_YL XML2 theo 4750 và 3762 (BV CLM và Châu thành BT) - YEUCAU - dh-issue- #144
 - ✨:  ***Bổ sung module theo yêu cầu.*** ![](https://live.staticflickr.com/65535/54728447039_1556299f66_b.jpg)
