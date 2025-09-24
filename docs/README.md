@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0924.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Service gởi check in khi đơn vị có sử dụng Ký số XML - LOI - dh-issue- #472
+- 🐛:  ***Không ký số khi gửi XML Check in.***
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/472
+
 ## [v.3.25.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509090-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Bổ sung NGAY_TH_YL XML2 theo 4750 và 3762 (BV CLM và Châu thành BT) - YEUCAU - dh-issue- #144
 - ✨:  ***Bổ sung theo yêu cầu, nếu NGAY_TH_YL rỗng, sẽ lấy giá trị NGAY_YL.*** ![](https://live.staticflickr.com/65535/54775972754_3a59da2ff3_b.jpg)
