@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0926.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509260-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Services: Ghi nhật ký gửi XML - Dữ liệu đã gửi BHXH tự động lên cổng - LOI - dh-issue- #481
+- 🐛:  ***Bổ sung nhật ký khi gửi XML bằng Services.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-explorer-2025-09-26-10h17p00.623.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-explorer-2025-09-26-10h17p06.956.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/481
+
 ## [v.3.25.0924.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509240-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Service gởi check in khi đơn vị có sử dụng Ký số XML - LOI - dh-issue- #472
 - 🐛:  ***Không ký số khi gửi XML Check in.***
