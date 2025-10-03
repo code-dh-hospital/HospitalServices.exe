@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1003.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32510030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32510030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32510030-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin: XML1 lấy sai Tiền bảo hiểm thanh toán và tiền bệnh nhân cùng chi trả - LOI - dh-issue- #550
+- 🐛:  ***Chỉnh lỗi tính sai chi phí đồng chi trả khi theo tham số baohiem.tinhvuotmuc=1.***  ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-03-15h13p38.426.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/550
+
 ## [v.3.25.0926.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32509261-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu: Xuất XML 4750 hỗ trợ tính lại XML3 cột tiền Bệnh nhân tự trả đối với Stent2 - YEUCAU - dh-issue- #308
 - ✨:  ***Tính tiền theo mô tả.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/09/DESKTOP-2FLMTI6-sidekick-2025-09-26-13h51p34.351.png)
