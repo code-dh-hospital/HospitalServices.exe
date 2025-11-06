@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511060-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng ghi nhận chẩn đoán sơ bộ theo mô tả [XML130/QD4570/bang1.chan_doan_vao.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/bang1.chan_doan_vao.md) khi xuất XML4750, cột `bang1.chan_doan_vao`:
+![](https://lh3.googleusercontent.com/pw/AP1GczPPLQrg0O_KsVekrxgR9tetGMZFB8cz3ZO0F2-XRMzE5pbP4k4iLOGBkRgNa1g-jOBAi87YUCT-fV-POUTmsrpBmhku72u0ZfjOtijSmDSNnumpAavw8QldzxlZfkGk42Utj8P56slLr9kSFcYo6vWL=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/553
+
 ## [v.3.25.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511040-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi `MA_DOITUONG_KCB = 1.3`: psdangky.trangthaichuyentuyen=2 -> mã 1.3 nhưng phần mềm xuất mã khác.
