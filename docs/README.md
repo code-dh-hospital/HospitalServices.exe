@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1118.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511180-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Service chức năng gửi tự động không gửi được hồ sơ BANT theo đợt (BV Thạnh Trị) - LOI - dh-issue- #624
+- 🐛:  ***Cập nhật mới để kiểm thử gửi hồ sơ BANT xuất viện, không in bảng kê.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/18/DESKTOP-2FLMTI6-explorer-2025-11-18-19h49p08.463.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/624
+
 ## [v.3.25.1106.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511060-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng ghi nhận chẩn đoán sơ bộ theo mô tả [XML130/QD4570/bang1.chan_doan_vao.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/bang1.chan_doan_vao.md) khi xuất XML4750, cột `bang1.chan_doan_vao`:
