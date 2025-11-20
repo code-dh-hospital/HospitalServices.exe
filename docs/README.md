@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511200-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi xuất dữ liệu XML4750 không lấy được ngày kết quả XML3.
+![](https://lh3.googleusercontent.com/pw/AP1GczN2sAcCYM0ZNjKv7pWgQZ_tM2fruHvN46ua-nI0bj7bu5PWoHrCMIQMppJn1yQptI5E6IWud7ZkN3TJX_kLw2HKv1R1sOwQa_sb2fQb1nVEByzqIuDOjtJRT16abC_xRAsd2PsB16kiIiFJ3727fpQI=w1656-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/627
+
 ## [v.3.25.1118.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511180-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Service chức năng gửi tự động không gửi được hồ sơ BANT theo đợt (BV Thạnh Trị) - LOI - dh-issue- #624
 - 🐛:  ***Cập nhật mới để kiểm thử gửi hồ sơ BANT xuất viện, không in bảng kê.*** ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/18/DESKTOP-2FLMTI6-explorer-2025-11-18-19h49p08.463.png)
