@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1126.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511261-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Liên thông Hồ sơ sức khoẻ điện tử của TTYT Khu Vực Đức Linh (Lâm Đồng) - YEUCAU - dh-issue- #565
+- ✨:  ***Bổ sung chức năng gửi dữ liệu lên SYT Lâm Đồng. Chỉnh lỗi không gửi lên được bằng phân hệ Services.*** 
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/26/DESKTOP-2FLMTI6-explorer-2025-11-26-14h23p47.150.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/26/DESKTOP-2FLMTI6-explorer-2025-11-26-14h24p26.808.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/26/DESKTOP-2FLMTI6-explorer-2025-11-26-14h25p45.203.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/565#issuecomment-19669
+
 ## [v.3.25.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511260-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Liên thông Hồ sơ sức khoẻ điện tử của TTYT Khu Vực Đức Linh (Lâm Đồng) - YEUCAU - dh-issue- #565
 - ✨:  ***Bổ sung chức năng gửi dữ liệu lên SYT Lâm Đồng.*** 
