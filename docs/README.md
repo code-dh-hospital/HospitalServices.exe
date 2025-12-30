@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1230.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32512300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32512300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32512300-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Admin chức năng xuất XML 4750 bổ sung XML13.ten_dich_vu đối với bệnh nhân không có chi phí cls (BV Ô Môn) - YEUCAU - dh-issue- #622
+- ✨:  ***Bổ sung cấu hình mặc định khi XML13 không có dịch vụ được chỉ định.***
+- ![](https://images-worker.tlt30.workers.dev/i/019b6d8a-2fe5-700a-beaf-95dfb1066e14)![](https://images-worker.tlt27.workers.dev/i/019b6d8e-87ab-7509-bbdd-855462d2ed2f)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/622#issuecomment-21413
+
 ## [v.3.25.1126.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32511261-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Liên thông Hồ sơ sức khoẻ điện tử của TTYT Khu Vực Đức Linh (Lâm Đồng) - YEUCAU - dh-issue- #565
 - ✨:  ***Bổ sung chức năng gửi dữ liệu lên SYT Lâm Đồng. Chỉnh lỗi không gửi lên được bằng phân hệ Services.*** 
