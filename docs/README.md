@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0201.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602010-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - Admin bổ sung Tùy chọn Xuất XML3176 - XML1 cột SO_NGAY_DTRI lấy theo QĐ4750 - YEUCAU - dh-issue- #673
+- ✨:  ***Bổ sung tùy chọn để cấu hình số ngày điều trị mặc định theo mã loại kcb.***
+- ![](https://images-worker.tlt30.workers.dev/i/019c1835-896c-7d68-b946-01cb0f65b5ee)
+![](https://images-worker.tlt28.workers.dev/i/019c1836-e3ef-7e31-9be0-9b2d1a52bb9f)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/673
+
 ## [v.3.25.1230.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32512301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32512301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32512301-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Chỉnh lỗi gửi check in khi không tìm thấy ICD có capchuyenmon=1 ![](https://images-worker.tlt26.workers.dev/i/019b6dfd-b9d4-7d11-b2ae-e729ff87c45a)
 
