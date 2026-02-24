@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0224.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602242-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602242-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602242-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Admin chức năng gửi tự động XML3 sai tên cls so với danh mục (BV DDKTP CT) - LOI - dh-issue- #730
+- 🐛:  ***Xử lý không loại bỏ các ký tự rác (không thể hiện trong unicode) đối với trường TEN_DICH_VU, đảm bảo giống danh mục gửi cổng BHXH.***
+- ![](https://images-worker.tlt31.workers.dev/i/019c8e89-0e51-7527-a862-b2a2c76555c8)
+![](https://images-worker.tlt34.workers.dev/i/019c8e88-d3d4-754b-bcb5-421444e46ef5)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/730
+
 ## [v.3.26.0224.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602241-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  LỖI - ADMIN - QĐ 3176: XML1 - CHAN_DOAN_RV không có dữ liệu - LOI - dh-issue- #749
 - 🐛:  ***Chỉ lấy bản ghi có kqcdoan không rỗng, thay vì chỉ lấy bản ghi mới nhất bất kể có dữ liệu hay không, đối với trường hợp cấu hình sử dụng chỉ lấy phòng khám cuối.***
