@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0224.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602241-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - ADMIN - QĐ 3176: XML1 - CHAN_DOAN_RV không có dữ liệu - LOI - dh-issue- #749
+- 🐛:  ***Chỉ lấy bản ghi có kqcdoan không rỗng, thay vì chỉ lấy bản ghi mới nhất bất kể có dữ liệu hay không, đối với trường hợp cấu hình sử dụng chỉ lấy phòng khám cuối.***
+- 🐛: Thay đổi chính: Thêm .Where(x => !String.IsNullOrEmpty(x.kqcdoan)) trước OrderByDescending để lọc ra các bản ghi có kết quả chẩn đoán, sau đó mới sắp xếp theo ngày và lấy bản ghi mới nhất — đảm bảo CHAN_DOAN_RV luôn có dữ liệu ![](https://images-worker.tlt33.workers.dev/i/019c8e4c-729c-7ce3-815e-97fe1e0a58d4)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/749
+
 ## [v.3.26.0224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32602240-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Admin chức năng gửi tự động XML3 sai tên cls so với danh mục (BV DDKTP CT) - LOI - dh-issue- #730
 - 🐛:  ***Chỉnh lỗi mất dấu Tiếng  Việt khi xuất XML4750.*** ![](https://images-worker.tlt36.workers.dev/i/019c8dd1-d764-71df-8881-3e0813f253dd)
