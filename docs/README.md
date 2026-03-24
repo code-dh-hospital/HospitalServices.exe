@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0324.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32603240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32603240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32603240-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Services: Gửi không thành công hồ sơ Checkin ký số USB Viettel Token
+- 🐛: Lỗi session không hợp lệ - 100800
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/789
+- 📕: Tạo lại session khi thấy lỗi 100800
+
 ## [v.3.26.0323.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32603230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32603230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32603230-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Services: Gửi không thành công hồ sơ Checkin ký số USB Viettel Token
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/789
