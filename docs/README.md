@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0406.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Ghi nhận các thông tin khi kiểm tra thông tuyến #133
+- ✨: Bổ sung chức năng xóa lịch sử tra cứu thông tin kiểm tra thông tuyến.
+https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-thuc-hien-chuc-nang-ghi-nhan-cac-thong-tin-kiem-tra-thong-tuyen.md
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/133
+
 ## [v.3.26.0401.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604010-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Services: Gửi không thành công hồ sơ Checkin ký số USB Viettel Token.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/789
