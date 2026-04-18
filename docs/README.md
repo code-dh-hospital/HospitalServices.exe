@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0418.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604180-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: XML13 theo QD3176 bỏ trường TEN_DICH_VU, TEN_THUOC
+![](https://lh3.googleusercontent.com/pw/AP1GczO7r7IPlJGdnVMt9sPgRKGE6aNndZSl3AtB0VEOHOwhlFwlPKWBiHpFV4Q_N7n_CsKd4ZFfeNamVF2XS2_X-SkPPdHtujJ6VGCrjUx6QKYwweLEkCPr8O7fOdoVrJxhNmBtqUouwxGmwYCorKlfsli6=w1658-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNnKzoAprOMtS1gsiOjCQ-czKRMyRTE57wg5E0hmM4VbXbqP7NqSV6oWWoa0B4wEmnKEwzzB6mA8K9D_7sHg0NNPjaS3OUuTroBpq-2KjJQ_pCcNIoE6Ng9sTEJB9QschgzGUwtVcci_eNL-hektTNz=w1658-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/818#issuecomment-26282
+
 ## [v.3.26.0406.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604060-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Ghi nhận các thông tin khi kiểm tra thông tuyến #133
 - ✨: Bổ sung chức năng xóa lịch sử tra cứu thông tin kiểm tra thông tuyến.
