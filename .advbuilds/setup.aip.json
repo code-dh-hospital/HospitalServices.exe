@@ -1,3 +1,16 @@
 {
-   "MainExe": "HospitalServices.exe"
+  "MainExe": "HospitalServices.exe",
+  "ProductDetail": {
+    "ProductName": "DHG.Hospital Register"
+  },
+  "AdvancedInstallerShortcut": {
+    "Name": "DHG.Hospital Services",
+    "Target": "APPDIR\\HospitalServices.exe",
+    "InDirectories": ["DesktopFolder", "StartMenuFolder\\DHG Pharma"],
+    "PathIcon": "Logo.ico"
+  },
+  "IconInControlPanel": {
+    "IsSetIcon": true,
+    "PathIcon": "Logo.ico"
+  }
 }
