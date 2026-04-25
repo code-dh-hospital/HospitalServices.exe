@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0425.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Admin, service, printer Khi cài đặt mới không tạo được shortcut (BV Thạnh Trị)- Lỗi
+- 🐛:  ***Chỉnh lỗi không tạo shortcut khi cài đặt.*** ![](https://images-worker.tlt46.workers.dev/i/019dc306-389a-742c-9786-28e47fccf28b)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/701#issuecomment-26569
+
 ## [v.3.26.0418.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604180-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: XML13 theo QD3176 bỏ trường TEN_DICH_VU, TEN_THUOC
