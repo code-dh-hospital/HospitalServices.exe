@@ -1,7 +1,7 @@
 {
   "MainExe": "HospitalServices.exe",
   "ProductDetail": {
-    "ProductName": "DHG.Hospital Register"
+    "ProductName": "DHG.Hospital Services"
   },
   "AdvancedInstallerShortcut": {
     "Name": "DHG.Hospital Services",
