@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0520.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32605200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32605200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32605200-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cấu hình `XML01.NGAY_VAO_NOI_TRU` đối với hồ sơ có `XML01.MA_LOAI_KCB = 02`.
+![](https://lh3.googleusercontent.com/pw/AP1GczMvPFIsymuz1Q_pxf-tz2GKYCqVt7Fl_Jxt4W_GSR3nc8wVNR8g6WzmkYUZhD_nnHVEwVjQrBUb2X31RRuOkEsO1AQLJy-i-5nxzRchDzKk6gVVBn2wWf4ECM9DfYEmUbxxh8nn1pAhrPANUe1j-4L4=w1248-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNgRTLYydV6D6KQ-H62-VDDWQh7QZmuNyeI7ah3Skj5h3fqs5WtdDijuRtWjuOJcZ5opaZl18wxZMWrDgtpviXZR7nEoGGS1hmAcJwIYtRNTDXT9P16LViV8JDirvIt0x9QK5nNiT4Z6G9eXol0V6dy=w1185-h543-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/855#issuecomment-27975
+
 ## [v.3.26.0425.6]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604256-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604256-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32604256-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Admin, service, printer Khi cài đặt mới không tạo được shortcut (BV Thạnh Trị)- Lỗi
 - 🐛:  ***Chỉnh lỗi không tạo được shortcut khi cài đặt.*** ![](https://images-worker.tlt47.workers.dev/i/019dc314-4bde-74f8-89d0-d9738c0cfa19)
