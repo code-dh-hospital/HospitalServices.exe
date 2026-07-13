@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0713.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607131-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  cầu - Kết nối Hệ thống thông tin lĩnh vực sức khỏe bà mẹ - trẻ em, sức khỏe sinh sản (SKBMTE/SKSS)- Yêu
+- ✨:  *** Thêm cấu hình gửi dữ liệu.*** 
+![](https://fjegkdsbbtdmikvgejxj.storage.supabase.co/storage/v1/object/public/doanonghien/public-bucket-proxy/DESKTOP-281KMLH-explorer-2026-07-13-14h48p09.176.png)
+![](https://ycdtffavntbzqzhzgtds.storage.supabase.co/storage/v1/object/public/tuyethoai625/public-bucket-proxy/DESKTOP-281KMLH-explorer-2026-07-13-14h55p32.930.png)
+![](https://pgurpzubjhgilszrscdl.storage.supabase.co/storage/v1/object/public/o25.ip8plus.0424/public-bucket-proxy/DESKTOP-281KMLH-explorer-2026-07-13-20h08p55.954.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/596
+
 ## [v.3.26.0713.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607130-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  cầu - Kết nối Hệ thống thông tin lĩnh vực sức khỏe bà mẹ - trẻ em, sức khỏe sinh sản (SKBMTE/SKSS)- Yêu
 - ✨:  *** Thêm cấu hình gửi dữ liệu.*** 
