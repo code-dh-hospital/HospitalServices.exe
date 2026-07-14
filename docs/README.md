@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: `---(Ghi- ✨:  cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế- Yêu
+- ✨:  ***Thêm option cấu hình gửi dữ liệu SYT Vĩnh Long.***
+- ✨:  ***Thay đổi cách tổ chức giao diện đối với các thông số kết nối tới hệ thống bên ngoài theo dạng Tab quản lý.***
+- ✨:  ***Thêm chức năng gửi hồ sơ lên SYT Vĩnh Long.***
+![](https://zbzmkkizcbbvkjszwlbz.storage.supabase.co/storage/v1/object/public/o6s22.0121k/public-bucket-proxy/DESKTOP-281KMLH-explorer-2026-07-14-08h17p43.635.png)
+![](https://deggavwnuhuivxjcccbl.storage.supabase.co/storage/v1/object/public/othau25.05/public-bucket-proxy/DESKTOP-281KMLH-explorer-2026-07-14-08h17p32.513.png)
+![](https://nxgwivvwptepiotfhfja.storage.supabase.co/storage/v1/object/public/o25.8plus.0424/public-bucket-proxy/DESKTOP-281KMLH-explorer-2026-07-14-08h33p58.368.png)
+![](https://htufsdhcxkdtrxdzvvjw.storage.supabase.co/storage/v1/object/public/o6s21.1231g/public-bucket-proxy/DESKTOP-281KMLH-explorer-2026-07-14-08h59p54.622.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/830#issuecomment-30746
+
 ## [v.3.26.0713.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607131-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  cầu - Kết nối Hệ thống thông tin lĩnh vực sức khỏe bà mẹ - trẻ em, sức khỏe sinh sản (SKBMTE/SKSS)- Yêu
 - ✨:  *** Thêm cấu hình gửi dữ liệu.*** 
