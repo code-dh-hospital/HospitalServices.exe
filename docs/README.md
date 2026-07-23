@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0723.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: cầu - Cấp key HIS và Buiding các module triển khai cho Phòng khám đa khoa Thánh Tâm (TP. HCM (tỉnh Bình Dương cũ))- Yêu
+- ✨: **_Bổ sung key theo Hợp đồng: `74167`._**
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/851#issuecomment-31292
+
 ## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: `---(Ghi- ✨:  cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế- Yêu
 - ✨:  ***Thêm option cấu hình gửi dữ liệu SYT Vĩnh Long.***
