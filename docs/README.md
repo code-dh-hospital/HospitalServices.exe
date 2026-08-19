@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0819.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32608190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32608190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32608190-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng load dữ liệu `XML4750/XML3176` `bang1.ngay_vao_noi_tru` theo `bang1.ma_loai_kcb là 05 hoặc 08` theo mô tả: [XML130/QD3176/bang1.ngay_vao_noi_tru.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD3176/bang1.ngay_vao_noi_tru.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczPy7DKJxeeL23ICtX91dnnpk8rHXJLIkv-m1rY6noxowcLvHaQdxZQoT1yUXZkBh6Qt5DW12EzxieIXjqSVs5q9SaHLhlGKxrIfzPLRlrUbki1Fb6CMhbaRTfFLDBL3eFddIwAkAm4XMxmg_3qoIPEN=w1555-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPI07rkWYwhrFa8k3jK6ayX0Tno0u5k82v-buG3g3dlzYBBfoBrAuCEi_3V2P8_iXp3HPVSsMbp8vpxSqO6KOdTMF-CSvEGvwpw0vsYx3TAShJ9il9FiCFzAz-mEYjdAGwpMn7-O4d0swL_jKxsOsEP=w1555-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/882#issuecomment-33248 (hdhiswork/YEUCAU#882)
+
 ## [v.3.26.0814.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32608140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32608140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32608140-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ công văn 2746/BHXH-CNTT sử dụng ĐDCN/CCCD thay thế mã số BHXH - Hệ thống thông tin giám định BHYT. Bổ sung chức năng cấu hình `[Sử dụng mã kiểm tra thông tuyến cổng BHYT]` theo mô tả [BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md). Lưu ý: hiện tại test trên cổng đào tạo => cổng chưa cập nhật.
