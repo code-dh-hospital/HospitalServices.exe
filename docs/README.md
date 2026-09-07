@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0907.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609070-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - XML3176 BANT đợt lấy mã bệnh kèm theo cấu hình lấy chẩn đoán ra viện
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/885
+- 📕: Cập nhật thư viện : Bổ sung option lấy chẩn đoán kèm theo và chẩn đoán ra viện khi xuất XML và xử lý theo option khi xuất XML1
+
+![](https://i.vgy.me/YRQFVl.png)
+
 ## [v.3.26.0902.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609020-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - XML 3176 mã loại KCB 02 bệnh án ngoại trú ngày không lấy được thông tin Quá trình bệnh lý (BV Ô Môn) #984
 	
