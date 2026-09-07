@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0907.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609071-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: LỖI - Số ngày điều trị trên form chỉ định CLS Prescription và Mô tả ma_loai_kcb_QD1804: MA_LOAI_KCB = 02 và 08 thiếu cách lấy SO_NGAY_DTRI #986
+
+	+ Cập nhật: Services
+
+	Fix lỗi BA_NGOAITRU không lấy được SO_NGAY_DTI khi MA_LOAI_KCB = '08'
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/986
+
 ## [v.3.26.0907.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609070-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - XML3176 BANT đợt lấy mã bệnh kèm theo cấu hình lấy chẩn đoán ra viện
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/885
