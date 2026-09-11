@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0911.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế #830
+- 🐛: Services chưa gửi được hồ sơ KCB lên cổng CSDL Ngành Y Tế
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/830
+
 ## [v.3.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalServices & OTH.Entity, OTH.Adapter, OTH.XForms.v.1.0] Bổ sung tùy chọn cấu hình trong Form Option BHXH (`XFrmOptionBHXH`) cho phép xác định `MA_DOITUONG_KCB (1.16, 1.17)` theo toàn bộ mã ICD (mặc định) hoặc chỉ theo mã ICD bệnh chính.
 - 🐛: [HospitalServices & OTH.Adapter] Khắc phục lỗi Cổng BHXH từ chối hồ sơ khi xác định mã đối tượng KCB 1.16/1.17 dựa trên chẩn đoán phụ trong khi chẩn đoán chính không thuộc cấp chuyên môn 1.
