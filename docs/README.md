@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0911.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609111-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi phần mềm Services đang chạy báo có phiên bản mới, đồng ý cập nhật liên tục. Dù đã chạy phiên bản mới vẫn báo và cập nhật phần mềm.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/956#issuecomment-34659 (hdhiswork/LOI#956)
+
 ## [v.3.26.0911.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế #830
 - 🐛: Services chưa gửi được hồ sơ KCB lên cổng CSDL Ngành Y Tế
