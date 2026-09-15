@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0915.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609153-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609153-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609153-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: không tự động cập nhật về bản cũ và không tự khởi động lại.
+![](https://lh3.googleusercontent.com/pw/AP1GczPVuwFUBkWRyGRSPAqlCKNghc-4SzOjfm4j73jwiSpqix211j0WQa7-CjjPpo-DNyk3fCNfHm67p_vnv9w_pgWRw8ezX_OAvj_Ny9hgfLi8yl296aFH2X1R4hOKTo-EFgYG5nHD_iymBn-zQKQqaqFQ=w1659-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/956#issuecomment-35920 (hdhiswork/LOI#956)
+
 ## [v.3.26.0915.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609152-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609152-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609152-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Test log nhật ký cập nhật module.
