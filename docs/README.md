@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0917.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Đồng bộ dữ liệu KCB lên CSDL Ngành Y Tế #830
+- ✨:  THỰC HIỆN CHỨC NĂNG GHI NHẬN TRẠNG THÁI GỬI XML
+[Mô tả](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-chuc-nang-ghi-nhan-trang-thai-gui-cong-file-xml.md)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/830
+
 ## [v.3.26.0916.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609165-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609165-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32609165-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi: không tự động cập nhật về bản cũ và không tự khởi động lại. LƯU Ý: Khi cập nhật phiên bản mới nhất này, sau đó đồng ý lùi phiên bản cũ thì phần mềm sẽ lùi toàn bộ phiên bản cũ (sẽ xuất hiện lỗi cũ, do phiên bản cũ gây ra, nếu có).
