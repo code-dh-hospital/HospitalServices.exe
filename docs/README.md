@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1118.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32611180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32611180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32611180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalServices] Bổ sung và đồng bộ tính năng ghi nhận người thực hiện, ngày kết quả công khám bảng XML3 theo QĐ 3176/4750 (BV TMĐ TG)
+- 🐛: Đồng bộ cập nhật từ OTH.Entity, OTH.Adapter và OTH.XForms.v.1.0 cho dịch vụ HospitalServices
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/993
+- 📗: Lưu cấu hình EOptionBHXH vào current.coderun
+- 📕: Dịch vụ HospitalServices đồng bộ dữ liệu xuất XML 4750/3176 với người thực hiện và ngày kết quả công khám
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-993/debug-image-admin-xfrmbkxuatxml4750-xml03-congkham.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-993/debug-image-admin-xfrmoptionbhxh-cauhinh-xml3.png)
+
 ## [v.3.26.1110.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32611100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32611100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalServicesexe%2F32611100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Tích hợp thư viện `OTH.Adapter` mới nhất (`v.1.26.1106.0`), hỗ trợ nhận diện toa thuốc 0 đồng (chương trình viện trợ ARV) trong `sqlToa0Dong` khi tính toán Bảng 1 XML130/4750 và XML3176.
 - 🐛: Sửa lỗi dịch vụ `HospitalServices` gửi tự động hồ sơ lên cổng BHXH bị lệch thông tin XML 3176 `so_ngay_dtri = 0` và `ma_loai_kcb = 08` so với module Reports (`so_ngay_dtri = 35`, `ma_loai_kcb = 05`). Loại bỏ điều kiện lọc cứng `AND COALESCE(bhyt,0) = 1` trong `sqlToa0Dong` tại `XML4750_MA_LOAI_KCB()` và `XML4750_MA_LOAI_KCB_1804()` trong `AGiamDinh.4750.XML01.cs` để thống nhất với hàm `get_SO_NGAY_DTRI_Toa0Dong`.
